@@ -7,10 +7,10 @@ from flask import render_template
 def index():
     return render_template('index.html')
 
-@app.route('/contato.html')
+@app.route('/contato')
 def contato():
     return render_template('contato.html')
 
-@app.route('/features.html')
+@app.route('/sobre')
 def features():
-    return render_template('features.html')
+    return render_template('sobre.html')
