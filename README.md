@@ -1,10 +1,11 @@
 # Portifólio
 
+
 Desenvolvido no curso de Programador de Sistema - Senac RN
 
 
-## Como Utilizar Esse Templa
-te
+## Como Utilizar Esse Template
+
 
 Instale o Git, Github Desktop ou use o terminal para
 
